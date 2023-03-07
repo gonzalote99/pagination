@@ -1,0 +1,17 @@
+main,section {
+  width: 100%;
+}
+
+
+header h2 {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+
+
+@media screen and (max-width:500px) {
+  header h2 {
+    font-size: 25px;
+  }
+}
